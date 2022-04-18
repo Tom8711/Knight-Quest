@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\Knights quest\Knights quest\bin\Debug\Knights quest.exe.config
+C:\Users\Tom\source\repos\Knights quest\Knights quest\bin\Debug\Knights quest.exe
+C:\Users\Tom\source\repos\Knights quest\Knights quest\bin\Debug\Knights quest.pdb
+C:\Users\Tom\source\repos\Knights quest\Knights quest\obj\Debug\Knights quest.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\Knights quest\Knights quest\obj\Debug\Knights_quest.Properties.Resources.resources
+C:\Users\Tom\source\repos\Knights quest\Knights quest\obj\Debug\Knights quest.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\Knights quest\Knights quest\obj\Debug\Knights quest.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Knights quest\Knights quest\obj\Debug\Knights quest.exe
+C:\Users\Tom\source\repos\Knights quest\Knights quest\obj\Debug\Knights quest.pdb
+C:\Users\Tom\source\repos\Knights quest\Knights quest\obj\Debug\Knights_quest.KnightsQuest.resources
+C:\Users\Tom\source\repos\Knights quest\Knights quest\obj\Debug\Knights_quest.Form2.resources
